@@ -1,0 +1,20 @@
+{
+  "name": "api.dio",
+  "version": "1.0.0",
+  "description": "Web API nodejs",
+  "repository": "https://github.com/gunn3r71/API_NodeJS_DIO.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "api"
+  ],
+  "author": "Lucas Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
